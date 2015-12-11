@@ -1,0 +1,19 @@
+{
+  "name": "metalsmith-urls",
+  "description": "A metalsmith plugin to build file.url, file.absolute_url and metatada.urls map from file.id.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zemax/metalsmith-urls.git"
+  },
+  "author": "Maxime Cousinou",
+  "bugs": {
+    "url": "https://github.com/zemax/metalsmith-urls/issues"
+  },
+  "homepage": "https://github.com/zemax/metalsmith-urls#readme"
+}
